@@ -11,3 +11,45 @@ form{
     border: black solid;
    
 }
+input{
+  width: 90%;
+  height: 20px;
+  background: transparent;
+  border: rgb(1, 157, 196) solid;
+  padding: 5px;
+
+
+ 
+    
+}
+.opti{
+    border: none;
+    padding: 10px;
+   
+}
+button{
+    
+    position: relative;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    left: 190px;
+    
+   background: orange;
+   color: crimson;
+   font-size: 15px;
+    
+}
+select{
+    background: transparent;
+}
+.a{
+    font-size: 20px;
+}
+.b{
+    position: relative;
+    text-align: center;
+    top: 80px;
+    color: crimson;
+}
